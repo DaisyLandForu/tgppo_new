@@ -1,0 +1,6 @@
+# Author baseline source: https://github.com/benmhamed-a/tgppo-aaai-26
+# Use the same Torch and custom SCIP environment as the active code.
+-r ../../requirements.txt
+pandas==2.0.3
+tensorboard==2.14.0
+optuna==4.4.0
